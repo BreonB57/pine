@@ -1352,7 +1352,7 @@
         },
         {
           "_params": {
-            "nbAccordion": "1",
+            "nbAccordion": "5",
             "showTitle": true,
             "paddingTop": "3",
             "paddingBottom": 1,
@@ -1376,17 +1376,33 @@
                 "heading": "heading2",
                 "collapse": "collapse2",
                 "href": "#collapse2",
-                "active": false,
-                "title": " Accordion 2",
-                "text": "<div class=\"mbri-responsive mbr-iconfont\" style=\"font-size: 44px;\"> </div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+                "active": true,
+                "title": " How secure are the tags? Could someone hack into them?",
+                "text": "<span class=\"mdi-action-lock-outline mbr-iconfont\" style=\"font-size: 44px;\"></span><br>Our tags are encrypted meaning nobody can edit the contents of the tag and the data stored on it. If you would like yours reprogrammed, you can send it back to us."
               },
               {
                 "heading": "heading3",
                 "collapse": "collapse3",
                 "href": "#collapse3",
-                "active": false,
-                "title": " Accordion 3",
-                "text": "<div class=\"mbri-responsive mbr-iconfont\" style=\"font-size: 44px;\"> </div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+                "active": true,
+                "title": " What can I use it for?",
+                "text": "Some possible uses for the tag are:<br>A sticker on your wall which lets guests connect to your wifi by tapping their phone on it.<br>A virtual business card, where when tapped on a client's phone, can add a contact with your details.<br>NFC can also be a good way to easily show people a YouTube channel or website extremely quickly."
+              },
+              {
+                "active": true,
+                "heading": "heading4",
+                "collapse": "collapse4",
+                "href": "#collapse4",
+                "title": " Accordion 4",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": true,
+                "heading": "heading5",
+                "collapse": "collapse5",
+                "href": "#collapse5",
+                "title": " Accordion 5",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
               }
             ]
           },
